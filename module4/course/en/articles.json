@@ -118,6 +118,9 @@
         "_canShowModelAnswer": false
       }
     },
+    "_globals": {
+      "_onPageLoad": "<script>customHome();</script>"
+    },
     "_odi-theme": {
       "_backgroundImage": {
         "_large": "",

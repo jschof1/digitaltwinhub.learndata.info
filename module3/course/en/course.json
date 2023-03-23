@@ -46,7 +46,7 @@
       }
     ],
     "_force": false,
-    "_isMenuDisabled": false
+    "_isMenuDisabled": true
   },
   "_globals": {
     "_accessibility": {

@@ -30,6 +30,9 @@
       "_notify": "1"
     }
   },
+  "_scripts": [
+      "course/en/custom.js"
+  ],
   "__v": 3,
   "_completionCriteria": {
     "_requireContentCompleted": true,
@@ -93,6 +96,6 @@
     "_queryURL": ""
   },
   "_homeButton": {
-    "_isEnabled": true
+    "_isEnabled": false
   }
 }
