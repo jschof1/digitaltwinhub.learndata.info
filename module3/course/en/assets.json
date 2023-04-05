@@ -116,12 +116,12 @@
     "attribution": "The Open Data Institute",
     "tags": []
   },
-  "8696b1cfb12e612d561db5eef44acb5b2d8d13a0.png": {
-    "title": "odi-blue-learning-logo.png",
-    "description": "odi-blue-learning-logo.png",
-    "source": "unknown",
-    "licence": "unknown",
-    "attribution": "unknown",
+  "f9855a4bc775449c566dabcd78c05fde759d0689.png": {
+    "title": "logo-small.png",
+    "description": "ODI logo used in content section of footer",
+    "source": "theodi.org",
+    "licence": "CC0",
+    "attribution": "ODI",
     "tags": []
   },
   "1e6bc53029c4dfe51b3ef7bc387cfafcb4d8f969.png": {
@@ -218,6 +218,14 @@
     "source": "https://cp.catapult.org.uk/",
     "licence": "All rights reserved",
     "attribution": "Connected Places Catapult",
+    "tags": []
+  },
+  "015fa88d738d97e847b53922b20759302fa5a59f.png": {
+    "title": "digital twin hub logo",
+    "description": "digital twin hub logo",
+    "source": "https://content.invisioncic.com/f305442/set_resources_12/d0e70b4cbb9ab8afb1bc1065a3f8487a_logo.png",
+    "licence": "All rights reserved",
+    "attribution": "digital twin hub logo",
     "tags": []
   }
 }

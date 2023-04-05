@@ -157,7 +157,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -255,7 +255,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -398,7 +398,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "clipboard",
+    "_classes": "clipboard mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -931,7 +931,7 @@
       "longdescription": "",
       "large": "course/en/assets/d5881cf7c8eeaf62475a9968276ca548da3bf333.jpg",
       "small": "course/en/assets/d5881cf7c8eeaf62475a9968276ca548da3bf333.jpg",
-      "attribution": "<a href=\"NA\" target=\"_blank\">NA</a> <span class='assetLicence'>[CC0]</span>",
+      "attribution": "<a href=\"https://unsplash.com/photos/gQI8BOaL69o\" target=\"_blank\">Noah Windler</a> <span class='assetLicence'>[CC0]</span>",
       "_url": "",
       "_target": null
     },
@@ -940,7 +940,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -989,7 +989,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -1163,7 +1163,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -1470,7 +1470,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -2887,7 +2887,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,

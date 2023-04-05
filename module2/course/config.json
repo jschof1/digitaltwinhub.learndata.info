@@ -32,8 +32,8 @@
   },
   "__v": 2,
   "_completionCriteria": {
-    "_requireContentCompleted": false,
-    "_requireAssessmentCompleted": true
+    "_requireContentCompleted": true,
+    "_requireAssessmentCompleted": false
   },
   "_logging": {
     "_isEnabled": true,
@@ -88,5 +88,8 @@
     },
     "_lrsFailureBehaviour": "show",
     "_queryURL": ""
+  },
+  "_homeButton": {
+    "_isEnabled": false
   }
 }

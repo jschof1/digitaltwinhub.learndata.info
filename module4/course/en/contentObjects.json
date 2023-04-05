@@ -41,11 +41,6 @@
     "_ODILicence": {
       "_items": []
     },
-    "_backButton": {
-      "_isEnabled": false,
-      "_hideBackButton": false,
-      "_redirectToId": ""
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
@@ -54,7 +49,7 @@
     },
     "_homeButton": {
       "_isEnabled": true,
-      "_hideHomeButton": true,
+      "_hideHomeButton": false,
       "_hideBackButton": true,
       "_redirectToId": ""
     },

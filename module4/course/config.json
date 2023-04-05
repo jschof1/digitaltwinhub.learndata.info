@@ -30,9 +30,6 @@
       "_notify": "1"
     }
   },
-  "_scripts": [
-      "course/en/custom.js"
-  ],
   "__v": 3,
   "_completionCriteria": {
     "_requireContentCompleted": true,
@@ -55,9 +52,6 @@
   },
   "_devtools": {
     "_isEnabled": false
-  },
-  "_backButton": {
-    "_isEnabled": true
   },
   "_xapi": {
     "_isEnabled": true,
@@ -96,6 +90,6 @@
     "_queryURL": ""
   },
   "_homeButton": {
-    "_isEnabled": false
+    "_isEnabled": true
   }
 }

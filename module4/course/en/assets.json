@@ -189,12 +189,20 @@
     "attribution": "wiki",
     "tags": []
   },
-  "48c98b0ed533696dc0fd224debdf17ea135a1341.png": {
-    "title": "m4 data interoperability_m4 cc licence compatibility chart - 4 open.png",
+  "513a731cc66011cce758f82e65d6f9e517204f39.png": {
+    "title": "m4 data interoperability_m4 cc licence compatability chart - 4 open.png",
     "description": "CC licence compatibility chart - 4 open licenses",
-    "source": "https://wiki.creativecommons.org",
+    "source": "https://wiki.creativecommons.org\r\n",
     "licence": "CC-BY",
     "attribution": "wiki.creativecommons",
+    "tags": []
+  },
+  "015fa88d738d97e847b53922b20759302fa5a59f.png": {
+    "title": "digital twin hub logo",
+    "description": "digital twin hub logo",
+    "source": "https://content.invisioncic.com/f305442/set_resources_12/d0e70b4cbb9ab8afb1bc1065a3f8487a_logo.png",
+    "licence": "All rights reserved",
+    "attribution": "digital twin hub logo",
     "tags": []
   }
 }

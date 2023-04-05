@@ -82,6 +82,9 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_branching": {
+      "_isEnabled": false
+    },
     "_vanilla": {
       "_backgroundImage": {
         "_large": "",
@@ -183,6 +186,9 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_branching": {
+      "_isEnabled": false
+    },
     "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
@@ -278,6 +284,9 @@
         "_canShowMarking": false,
         "_canShowModelAnswer": false
       }
+    },
+    "_branching": {
+      "_isEnabled": false
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -375,6 +384,9 @@
         "_canShowModelAnswer": false
       }
     },
+    "_branching": {
+      "_isEnabled": false
+    },
     "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
@@ -470,6 +482,9 @@
         "_canShowMarking": false,
         "_canShowModelAnswer": false
       }
+    },
+    "_branching": {
+      "_isEnabled": false
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -567,6 +582,9 @@
         "_canShowModelAnswer": false
       }
     },
+    "_branching": {
+      "_isEnabled": false
+    },
     "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
@@ -662,6 +680,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_isEnabled": false
     },
     "_odi-theme": {
       "_backgroundImage": {

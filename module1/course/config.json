@@ -30,7 +30,7 @@
       "_notify": "1"
     }
   },
-  "__v": 3,
+  "__v": 7,
   "_completionCriteria": {
     "_requireContentCompleted": true,
     "_requireAssessmentCompleted": false
@@ -52,6 +52,9 @@
   },
   "_devtools": {
     "_isEnabled": false
+  },
+  "_backButton": {
+    "_isEnabled": true
   },
   "_xapi": {
     "_isEnabled": true,
@@ -88,5 +91,8 @@
     },
     "_lrsFailureBehaviour": "show",
     "_queryURL": ""
+  },
+  "_homeButton": {
+    "_isEnabled": true
   }
 }

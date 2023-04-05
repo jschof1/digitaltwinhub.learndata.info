@@ -57,6 +57,12 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
     "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
@@ -128,6 +134,12 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     }
   },
   {
@@ -187,6 +199,12 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -265,6 +283,12 @@
     "_assessment": {
       "_quizBankID": 1
     },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
     "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
@@ -336,6 +360,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     }
   },
   {
@@ -395,6 +425,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -467,6 +503,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     }
   },
   {
@@ -526,6 +568,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -604,6 +652,12 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
     "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
@@ -675,6 +729,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     }
   },
   {
@@ -734,6 +794,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -806,6 +872,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     }
   },
   {
@@ -860,6 +932,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     }
   },
   {
@@ -919,6 +997,12 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     },
     "_vanilla": {
       "_backgroundImage": {
@@ -1002,6 +1086,12 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
     "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
@@ -1079,6 +1169,12 @@
     "_assessment": {
       "_quizBankID": 1
     },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
     "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
@@ -1150,6 +1246,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     }
   },
   {
@@ -1204,6 +1306,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     }
   },
   {
@@ -1258,6 +1366,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     }
   },
   {
@@ -1317,6 +1431,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -1395,6 +1515,12 @@
     "_assessment": {
       "_quizBankID": 1
     },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
     "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
@@ -1466,6 +1592,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     }
   },
   {
@@ -1525,6 +1657,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -1597,6 +1735,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     }
   },
   {
@@ -1651,6 +1795,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     }
   },
   {
@@ -1710,6 +1860,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -1782,6 +1938,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     }
   },
   {
@@ -1836,6 +1998,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     }
   },
   {
@@ -1895,6 +2063,12 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -1967,6 +2141,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     }
   },
   {
@@ -2021,6 +2201,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     }
   },
   {
@@ -2075,6 +2261,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     }
   },
   {
@@ -2134,6 +2326,12 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -2212,6 +2410,12 @@
     "_assessment": {
       "_quizBankID": 1
     },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
     "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
@@ -2283,6 +2487,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     }
   },
   {
@@ -2342,6 +2552,12 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -2414,6 +2630,12 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     }
   }
 ]

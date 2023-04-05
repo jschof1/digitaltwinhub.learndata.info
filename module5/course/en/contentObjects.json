@@ -1,7 +1,7 @@
 [
   {
-    "title": "New Menu/Page Title",
-    "displayTitle": "New Menu/Page Title",
+    "title": "Applying data ethics",
+    "displayTitle": "Applying data ethics",
     "body": "",
     "_classes": "",
     "subtitle": "",
@@ -21,8 +21,14 @@
     "_id": "6408ba61b38aaf6b93dd7e1f",
     "_type": "page",
     "_parentId": "course",
-    "_ODILicence": {
-      "_items": []
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
     },
     "_FooterLink": {
       "_items": []
@@ -32,11 +38,52 @@
       "SL_text": "",
       "_items": []
     },
+    "_ODILicence": {
+      "_items": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
+    },
+    "_homeButton": {
+      "_isEnabled": true,
+      "_hideHomeButton": false,
+      "_hideBackButton": true,
+      "_redirectToId": ""
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
     }
   }
 ]

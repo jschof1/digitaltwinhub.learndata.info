@@ -30,7 +30,7 @@
       "_notify": "1"
     }
   },
-  "__v": 2,
+  "__v": 4,
   "_completionCriteria": {
     "_requireContentCompleted": false,
     "_requireAssessmentCompleted": true
@@ -50,6 +50,7 @@
     "medium": 760,
     "large": 900
   },
+  "_themePreset": "6408acb6b38aaf6b93dd7d4d",
   "_devtools": {
     "_isEnabled": false
   },
@@ -79,5 +80,8 @@
       "_exitStateIfIncomplete": "auto",
       "_exitStateIfComplete": "auto"
     }
+  },
+  "_homeButton": {
+    "_isEnabled": false
   }
 }

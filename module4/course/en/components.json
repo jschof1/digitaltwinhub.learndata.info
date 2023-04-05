@@ -39,7 +39,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -70,7 +70,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -119,7 +119,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -679,7 +679,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -897,10 +897,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_tutor": {
       "_isInherited": true,
       "_type": "notify",
@@ -910,6 +906,10 @@
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -1706,7 +1706,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -2127,7 +2127,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "color-one inverted ",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -2165,8 +2165,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/48c98b0ed533696dc0fd224debdf17ea135a1341.png",
-      "small": "course/en/assets/48c98b0ed533696dc0fd224debdf17ea135a1341.png",
+      "large": "course/en/assets/513a731cc66011cce758f82e65d6f9e517204f39.png",
+      "small": "course/en/assets/513a731cc66011cce758f82e65d6f9e517204f39.png",
       "attribution": "<a href=\"https://wiki.creativecommons.org\" target=\"_blank\">wiki.creativecommons</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null

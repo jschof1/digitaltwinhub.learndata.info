@@ -38,14 +38,25 @@
       "SL_text": "",
       "_items": []
     },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_backButton": {
+      "_isEnabled": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
     },
-    "_ODILicence": {
-      "_items": []
+    "_homeButton": {
+      "_isEnabled": true,
+      "_hideHomeButton": false,
+      "_hideBackButton": false,
+      "_redirectToId": ""
     },
     "_boxMenu": {
       "_renderAsGroup": false

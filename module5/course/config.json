@@ -30,7 +30,7 @@
       "_notify": "1"
     }
   },
-  "__v": 4,
+  "__v": 5,
   "_completionCriteria": {
     "_requireContentCompleted": false,
     "_requireAssessmentCompleted": true
@@ -92,5 +92,8 @@
     },
     "_lrsFailureBehaviour": "show",
     "_queryURL": ""
+  },
+  "_homeButton": {
+    "_isEnabled": false
   }
 }

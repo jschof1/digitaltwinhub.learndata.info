@@ -265,6 +265,9 @@
       },
       "_flowItems": {
         "ariaRegion": "This component is an flow items."
+      },
+      "_threeGLTF": {
+        "ariaRegion": ""
       }
     },
     "_menu": {
@@ -446,19 +449,19 @@
         }
       },
       {
-        "title": "Adapt Learning",
-        "description": "<p>Open source learning platform developed by <a href=\"https://www.adaptlearning.org/\" target=\"_blank\">Adapt learning</a>.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "course/en/assets/d83ce940ff76810967a9ec101f4cb6fefd54a4d0.png"
-        }
-      },
-      {
         "title": " Connected Places Catapult",
         "description": "<p><a href=\"https://cp.catapult.org.uk/\">The Connected Places Catapult</a> is the UK government's innovation agency for cities, transport and place leadership. It is one of several Catapult centres.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "course/en/assets/848871b0788afcc83b2002c1bcfaf4f39efe0b1d.webp"
+        }
+      },
+      {
+        "title": "Digital Twin Hub",
+        "description": "<p>Digital Twin Hub is&nbsp;collaborative web-enabled community for those who own, or who are developing, digital twins within the built environment.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/015fa88d738d97e847b53922b20759302fa5a59f.png"
         }
       }
     ]
@@ -545,6 +548,13 @@
     "_isPercentageBased": true,
     "_scoreToPass": 60,
     "_correctToPass": 60
+  },
+  "_homeButton": {
+    "_isEnabled": true,
+    "_hideHomeButton": false,
+    "_redirectToId": "",
+    "_customLink": "learning.digitaltwinhub.co.uk/",
+    "alt": "Home"
   },
   "_boxMenu": {
     "_backgroundImage": {

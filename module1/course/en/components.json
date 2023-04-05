@@ -681,7 +681,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -953,7 +953,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
