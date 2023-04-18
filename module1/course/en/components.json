@@ -109,7 +109,7 @@
     "_disableAccessibilityState": false,
     "title": "How is impact created from data?",
     "displayTitle": "How is impact created from data?",
-    "body": "<p>You create impact from data by:</p>",
+    "body": "<p>Do you know how impact is created from data?</p>",
     "_id": "6408829bb38aaf6b93dd7d05",
     "_parentId": "6408829bb38aaf6b93dd7cf8",
     "_type": "component",
@@ -215,7 +215,7 @@
     "_disableAccessibilityState": false,
     "title": "Case studies: organisations being more open and trusted with data",
     "displayTitle": "Case studies: organisations being more open and trusted with data",
-    "body": "<p>TO EDIT BELOW</p>",
+    "body": "",
     "_id": "6408829bb38aaf6b93dd7d07",
     "_parentId": "6408829bb38aaf6b93dd7cfd",
     "_type": "component",
@@ -388,7 +388,7 @@
     "_disableAccessibilityState": false,
     "title": "Where data sits in our landscape",
     "displayTitle": "",
-    "body": "<p dir=\"ltr\">Some of the most challenging problems and exciting opportunities lie at the intersections between human behaviour and technological innovation. Digital twins unleash value by enabling better decisions — in use, operations, maintenance, resilience, planning, investment and more — across the built and natural environments. However, in a world where the collection of data is accelerating, the value of the information it can provide is limited by the lack of a strategy for interconnections, resilience or long-term outcomes. We need a sociotechnical change programme to ensure alignment under a principled, people led approach.</p><p dir=\"ltr\">The key is to collect high-quality data and make it available for everyone to use. Much that we take for granted today is only possible because of agreed and open standards and mechanism that enable global interoperability of data.&nbsp; Take standards like barcodes, energy delivery and even passports. These are agreed standards with international agreement on how complex data ecosystems operate.&nbsp;</p>",
+    "body": "<p dir=\"ltr\">Some of the most challenging problems and exciting opportunities lie at the intersections between human behaviour and technological innovation. Digital twins unleash value by enabling better decisions — in use, operations, maintenance, resilience, planning, investment and more — across the built and natural environments. However, in a world where the collection of data is accelerating, the value of the information it can provide is limited by the lack of a strategy for interconnections, resilience or long-term outcomes. We need a sociotechnical change programme to ensure alignment under a principled, people led approach.</p><p dir=\"ltr\">The key is to collect high-quality data and make it available for everyone to use. Much that we take for granted today is only possible because of agreed and open standards and mechanisms that enable global interoperability of data.&nbsp; Take standards like barcodes, energy delivery and even passports. These are agreed standards with international agreement on how complex data ecosystems operate.&nbsp;</p>",
     "_id": "6408829bb38aaf6b93dd7d0a",
     "_parentId": "6408829bb38aaf6b93dd7cf7",
     "_type": "component",
@@ -426,7 +426,7 @@
     "_disableAccessibilityState": false,
     "title": "The data landscape and connected digital twins ",
     "displayTitle": "",
-    "body": "<p>A digital twin is a digital representation of a physical asset, process or system. It is distinguished from any other digital model by its dynamic connection to the physical twin.&nbsp;</p><p>Digital twins are tools to make better decision, faster and quicker by going through the information value chain more efficiently – turning data into insights that enable improved decisions and provide better outcomes.</p><p>Data plays a fundamental role in enable secure, resilient and connected digital twins.&nbsp;</p><p>However, to realise the full benefits that data can bring, businesses must understand the ‘data landscape’ and its role in connected digital twins.</p>",
+    "body": "<p>A digital twin is a digital representation of a physical asset, process or system. It is distinguished from any other digital model by its dynamic connection to the physical twin.&nbsp;</p><p>Digital twins are tools to make better decisions, faster and quicker by going through the information value chain more efficiently – turning data into insights that enable improved decisions and provide better outcomes.</p><p>Data plays a fundamental role in enabling&nbsp;secure, resilient and connected digital twins.&nbsp;</p><p>However, to realise the full benefits that data can bring, businesses must understand the ‘data landscape’ and its role in connected digital twins.</p>",
     "_id": "6408829bb38aaf6b93dd7d0b",
     "_parentId": "6408829bb38aaf6b93dd7cf6",
     "_type": "component",
@@ -474,6 +474,16 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
@@ -481,10 +491,15 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
+      "longdescription": "",
       "large": "course/en/assets/3892f6ceb262db82df84ab6b0a391dc7f6631d8d.png",
       "small": "course/en/assets/3892f6ceb262db82df84ab6b0a391dc7f6631d8d.png",
-      "attribution": "<a href=\"https://theodi.org/about-the-odi/our-vision-and-manifesto/our-theory-of-change/\" target=\"_blank\">Adapted from the Open Data Institute's theory of change</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-    }
+      "attribution": "<a href=\"https://theodi.org/about-the-odi/our-vision-and-manifesto/our-theory-of-change/\" target=\"_blank\">Adapted from the Open Data Institute's theory of change</a> <span class='assetLicence'>[CC-BY-SA]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
   },
   {
     "_component": "text",
@@ -498,7 +513,7 @@
     "_disableAccessibilityState": false,
     "title": "Where next?",
     "displayTitle": "Where next?",
-    "body": "<p>To help everyone discover more we have developed several modules to help overcome barriers to sharing data in the digital twins landscape and enable the construction of a shared data infrastructure.</p><p dir=\"ltr\"><strong>These modules focus on:</strong></p><ol><li dir=\"ltr\"><p dir=\"ltr\">How to share data across organisational and sectoral boundaries</p></li><li dir=\"ltr\"><p dir=\"ltr\">Understanding the spectrum of data and our roles and responsibilities when sharing and consuming data from third parties</p></li><li dir=\"ltr\"><p dir=\"ltr\">Protecting the rights of individuals while maximising the utility of data</p></li><li dir=\"ltr\"><p dir=\"ltr\">Ensuring interoperability of data in the digital twins ecosystem</p></li><li dir=\"ltr\"><p dir=\"ltr\">Applying data ethics to ensure our twins are “good”</p></li></ol><p dir=\"ltr\">&nbsp;</p><p><strong>Data sharing across organisational and sectoral boundaries</strong></p><p dir=\"ltr\">Value can be created from data when it is collected, accessed, used and shared. Maximising the value created from data can only be achieved when all of these aspects are considered. However this cycle is often broken as data is not shared and thus the same data cannot be collected and re-used by others. One the main reasons data is not shared is the lack of clear data sharing agreement or licence that can be used to safely shared data while protecting the interests of the data owner.</p><p dir=\"ltr\">This module introduces the key role of data sharing agreements and data licenses as ways to safely share data and maximise its reuse.</p><p dir=\"ltr\">&nbsp;</p><p><strong>Protecting the rights of individuals while maximising the utility of data</strong></p><p dir=\"ltr\">Fears over collecting, using and sharing personal data often results in data not getting to those who need it.&nbsp;The challenge starts with understanding just what personal data is, the difference between this and&nbsp;sensitive commercial data, and the role of&nbsp;data protection regulations, which many see as a blocker to collecting, using and sharing personal data.&nbsp;</p><p dir=\"ltr\">The aim of this module is to increase understanding of personal data and techniques that can be applied to ensure the rights of individuals are protected, while maximising the utility of data.</p><p>&nbsp;</p><p><strong>Working with data from third party sources</strong></p><p dir=\"ltr\">Data increases in value the more it is connected. This is because allowing data to be collected, used and shared means it can be utilised for a number of purposes.</p><p dir=\"ltr\">However, before any data can be collected, used or shared, it is important to understand who owns what data, who has rights over it and what permissions or responsibilities you or others have in relation to the data. Projects that set out with good intentions to reuse existing data often encounter legal and ethical constraints which should be addressed as soon as possible.</p><p dir=\"ltr\">This module looks at the spectrum of data and how permission is granted and/or obtained to integrate, analyse and otherwise reuse data.</p><p><strong>How can connected digital twins be interoperable?&nbsp;</strong></p><p dir=\"ltr\">In order to build a shared data infrastructure, it is critical that data is as interoperable as possible. This goes beyond simply using the same standard or set of column titles. In this module we explore the following:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">Legal interoperability</p></li><li dir=\"ltr\"><p dir=\"ltr\">Technical interoperability</p></li><li dir=\"ltr\"><p dir=\"ltr\">Semantic interoperability</p></li></ul><p>&nbsp;</p><p><strong>Applying data ethics</strong></p><p dir=\"ltr\">In this module we will explore the application of data ethics using tools that support individuals and organisations in developing products and services that mitigate negative risks and serve to promote positive outcomes for people and society.&nbsp;</p><p dir=\"ltr\">This module provides you with the knowledge and skills to:</p><p dir=\"ltr\">1. Describe the types of questions to ask when embedding ethical data practices</p><p dir=\"ltr\">2. Identify common barriers to adopting approaches to data ethics</p><p dir=\"ltr\">3. Explain how to use tools and frameworks to support ethical thinking around collection, use and sharing of data in projects</p><p dir=\"ltr\">4. Make several recommendations to improve the ethical handling of data</p>",
+    "body": "<p>To help everyone discover more, we have developed several modules to help overcome barriers to sharing data in the digital twins landscape and enable the construction of a shared data infrastructure.</p><p>In the upcoming modules, we will cover a range of topics to help you overcome barriers in the digital twins landscape and build a shared data infrastructure. We will focus on:</p><ol><li><strong>Maximising reuse of data through licensing and sharing:&nbsp;</strong>Understand personal data, related regulations, and techniques to ensure privacy and data usefulness.</li><li><strong>Working with data from third-party sources:</strong> Explore data ownership, rights, and permissions to responsibly integrate, analyse, and reuse data.</li><li><strong>Ensuring data interoperability: </strong>Discover legal, technical, and semantic aspects of data interoperability for connected digital twins.</li><li><strong>Applying data ethics: </strong>Learn how to use tools and frameworks to embed ethical data practices and make recommendations for ethical data handling.</li><li><strong>Ethics &amp; Personal Data:</strong> In this module, we clarify personal data, differentiate it from sensitive commercial data, and explore data protection regulations. Learn techniques to protect individuals' rights while optimizing data utility.</li></ol>",
     "_id": "6408829bb38aaf6b93dd7d0d",
     "_parentId": "6408829bb38aaf6b93dd7d01",
     "_type": "component",
@@ -536,7 +551,7 @@
     "_disableAccessibilityState": false,
     "title": "Common barriers (1): Hoarding data",
     "displayTitle": "",
-    "body": "<p>One of the biggest challenges to realising the full value of data is the lack of cultural willingness to share data. The ODI calls this scenario ‘the oil field’.</p><p>The oil field is a scenario where: owning data; having as much data as possible in one place; trying to know everything about everyone and then maintaining the inevitable degradation of these datasets – is killing the return on investment (and the fun!) when working with&nbsp; data, and it’s not the only way!</p><p>Such approaches lead to a closed (or walled garden) environment which can greatly reduce innovation capabilities.</p><p>To overcome this barrier, organisations should support an open culture as much as possible. During challenging times it is especially important to realise the benefits of working with others, sharing insights and innovating together.</p><p>Building a data catalog that we can all use helps ensure variety is our data superpower. It also helps to prevent hoarding and the inevitable associated degradation of data.</p>",
+    "body": "<p>One of the biggest challenges to realising the full value of data is the lack of cultural willingness to share data. The ODI calls this scenario ‘the oil field’.</p><p>The oil field is a scenario where: owning data; having as much data as possible in one place; trying to know everything about everyone and then maintaining the inevitable degradation of these datasets – is killing the return on investment (and the fun!) when working with&nbsp;data, and it’s not the only way!</p><p>Such approaches lead to a closed (or walled garden) environment, which can greatly reduce innovation capabilities.</p><p>To overcome this barrier, organisations should support an open culture as much as possible. During challenging times it is especially important to realise the benefits of working with others, sharing insights and innovating together.</p><p>Building a data catalog that we can all use helps ensure variety is our data superpower. It also helps to prevent hoarding and the inevitable associated degradation of data.</p>",
     "_id": "6408829bb38aaf6b93dd7d0e",
     "_parentId": "6408829bb38aaf6b93dd7cfb",
     "_type": "component",
@@ -545,6 +560,16 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -564,7 +589,7 @@
     "_disableAccessibilityState": false,
     "title": "Data is infrastructure",
     "displayTitle": "Data is infrastructure",
-    "body": "<p dir=\"ltr\">Building data infrastructure is not as simple as putting data on a server or in a spreadsheet. You need to build a strong foundation that sets out priorities.&nbsp;</p><p dir=\"ltr\">At level one, this involves having a clear strategy, aligned to the legal and ethical frameworks that ensure fair and equitable development of that infrastructure. You also ensure you are investing in the infrastructure and the capability to manage it.&nbsp;</p><p dir=\"ltr\">One top of a strong foundation you build the data infrastructure itself. A data infrastructure consists of data assets, supported by people, policies and process and technology.&nbsp;</p><p dir=\"ltr\">From this infrastructure you can build value. But to get there requires the building of trust. Changes to infrastructure (even physical) require large change management programmes to build trust in them and the value they provide as a result. It is critical to engage openly for people to understand the value which often requires large amounts of investment.</p>",
+    "body": "<p dir=\"ltr\">Building data infrastructure is not as simple as putting data on a server or in a spreadsheet. You need to build a strong foundation that sets out priorities.&nbsp;</p><p dir=\"ltr\">At level one, this involves having a clear strategy, aligned to the legal and ethical frameworks that ensure fair and equitable development of that infrastructure. You also ensure you are investing in the infrastructure and the capability to manage it.&nbsp;</p><p dir=\"ltr\">On&nbsp;top of a strong foundation you build the data infrastructure itself. A data infrastructure consists of data assets, supported by people, policies and process and technology.&nbsp;</p><p dir=\"ltr\">From this infrastructure you can build value. But to get there requires the building of trust. Changes to infrastructure (even physical) requires large change management programmes to build trust in them and the value they provide as a result. It is critical to engage openly for people to understand the value which often requires large amounts of investment.</p>",
     "_id": "6408829bb38aaf6b93dd7d0f",
     "_parentId": "6408829bb38aaf6b93dd7cfe",
     "_type": "component",
@@ -629,7 +654,7 @@
     "_disableAccessibilityState": false,
     "title": "Common barriers (2): Fearing data",
     "displayTitle": "",
-    "body": "<p>If data is unused and unloved, it will degrade and could potentially lead to security risks, reputational and brand damage. The ODI calls this scenario ‘the wasteland’.</p><p>The wasteland is most prevalent in situations where unaddressed fears arising from legitimate concerns – such as who has access to data and how it might be used – prevent any benefits being realised.</p><p>The ODI recommends putting in place practices that ensure the way data is collected and used is <strong>trustworthy </strong>and <strong>just</strong>.</p><p>To help address these fears WPP Open is developing a set of Data Ethics Principles and Guidelines that will be rolled out in each agency to ensure there is equity around who accesses, uses and benefits from data.</p><p>&nbsp;</p>",
+    "body": "<p>If data is unused and unloved, it will degrade and could potentially lead to security risks, reputational and brand damage. The ODI calls this scenario ‘the wasteland’.</p><p>The wasteland is most prevalent in situations where unaddressed fears arising from legitimate concerns – such as who has access to data and how it might be used – prevent any benefits being realised.</p><p>The ODI recommends putting in place practices that ensure the way data is collected and used is <strong>trustworthy </strong>and <strong>just</strong>.</p><p>&nbsp;</p>",
     "_id": "6408829bb38aaf6b93dd7d11",
     "_parentId": "6408829bb38aaf6b93dd7cfc",
     "_type": "component",
@@ -638,6 +663,16 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -667,6 +702,16 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
@@ -674,10 +719,15 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
+      "longdescription": "",
       "large": "course/en/assets/a35789ccc778fd791b6af032522d21382fe3bbe1.png",
       "small": "course/en/assets/a35789ccc778fd791b6af032522d21382fe3bbe1.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-    }
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
   },
   {
     "_component": "graphic",
@@ -712,7 +762,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -761,7 +811,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -799,7 +849,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -837,7 +887,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -886,7 +936,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -984,7 +1034,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -1033,7 +1083,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""

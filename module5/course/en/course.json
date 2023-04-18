@@ -6,7 +6,7 @@
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 37,
+  "_latestTrackingId": 38,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -40,13 +40,13 @@
     "_isEnabled": true,
     "_startIds": [
       {
-        "_id": "6408ba61b38aaf6b93dd7e1f",
+        "_id": "643e8c03b38aaf6b93dd8944",
         "_skipIfComplete": false,
         "_className": ""
       }
     ],
-    "_force": false,
-    "_isMenuDisabled": false
+    "_force": true,
+    "_isMenuDisabled": true
   },
   "_globals": {
     "_accessibility": {
@@ -104,6 +104,11 @@
       "_resources": {
         "resources": "Additional resources."
       },
+      "_xapi": {
+        "confirm": "OK",
+        "lrsConnectionErrorTitle": "LRS not available",
+        "lrsConnectionErrorMessage": "We were unable to connect to your Learning Record Store (LRS). This means that your progress cannot be recorded."
+      },
       "_pageLevelProgress": {
         "pageLevelProgress": "Page sections",
         "pageLevelProgressIndicatorBar": "Page progress. Use this to listen to the list of regions in this topic and whether they're completed. You can jump directly to any that are incomplete or which sound particularly interesting. {{percentageComplete}}%",
@@ -111,11 +116,6 @@
         "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
         "optionalContent": "Optional content",
         "_navOrder": "0"
-      },
-      "_xapi": {
-        "confirm": "OK",
-        "lrsConnectionErrorTitle": "LRS not available",
-        "lrsConnectionErrorMessage": "We were unable to connect to your Learning Record Store (LRS). This means that your progress cannot be recorded."
       }
     },
     "_components": {
@@ -539,12 +539,6 @@
   "_branching": {
     "_isEnabled": true
   },
-  "_pageLevelProgress": {
-    "_isEnabled": true,
-    "_showPageCompletion": true,
-    "_isCompletionIndicatorEnabled": false,
-    "_isShownInNavigationBar": true
-  },
   "_assessment": {
     "_isPercentageBased": true,
     "_scoreToPass": 60,
@@ -556,6 +550,12 @@
     "_redirectToId": "",
     "_customLink": "learning.digitaltwinhub.co.uk/",
     "alt": "Home"
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true
   },
   "_boxMenu": {
     "_backgroundImage": {

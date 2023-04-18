@@ -24,55 +24,8 @@
       "_quizBankID": 1
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_odi-generic": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "The difference between data licenses and data sharing agreements",
-    "displayTitle": "The difference between data licenses and data sharing agreements",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 2,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6408b2dfb38aaf6b93dd7d5a",
-    "_parentId": "6408b2dfb38aaf6b93dd7d54",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -94,8 +47,55 @@
     }
   },
   {
-    "title": "Choosing between using a data sharing agreement and a data license",
-    "displayTitle": "Choosing between using a data sharing agreement and a data license",
+    "title": "The difference between data licences and data sharing agreements",
+    "displayTitle": "The difference between data licences and data sharing agreements",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6408b2dfb38aaf6b93dd7d5a",
+    "_parentId": "6408b2dfb38aaf6b93dd7d54",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Choosing between using a data sharing agreement and a data licence",
+    "displayTitle": "Choosing between using a data sharing agreement and a data licence",
     "body": "",
     "_classes": "section-banner",
     "_trackingId": 3,
@@ -121,7 +121,7 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -188,8 +188,8 @@
     }
   },
   {
-    "title": "Building a data license",
-    "displayTitle": "Building a data license",
+    "title": "Building a data licence",
+    "displayTitle": "Building a data licence",
     "body": "",
     "_classes": "",
     "_trackingId": 5,
@@ -215,7 +215,7 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -306,10 +306,10 @@
       "_quizBankID": 1
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -447,10 +447,10 @@
       "_quizBankID": 1
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -470,8 +470,8 @@
     }
   },
   {
-    "title": "Common licenses for data sharing",
-    "displayTitle": "Common licenses for data sharing",
+    "title": "Common licences for data sharing",
+    "displayTitle": "Common licences for data sharing",
     "body": "",
     "_classes": "",
     "_trackingId": 11,
@@ -497,7 +497,7 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -564,9 +564,9 @@
     }
   },
   {
-    "title": "Characteristics of data licenses",
-    "displayTitle": "Characteristics of data licenses",
-    "body": "<p>A <strong>data license</strong> describes the ways that data can be used without any of the organisations involved having to enter into a formal agreement.</p>",
+    "title": "Characteristics of data licences",
+    "displayTitle": "Characteristics of data licences",
+    "body": "<p>A <strong>data licence</strong> describes the ways that data can be used without any of the organisations involved having to enter into a formal agreement.</p>",
     "_classes": "",
     "_trackingId": 13,
     "instruction": "",
@@ -588,10 +588,10 @@
       "_quizBankID": 1
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -705,8 +705,8 @@
     }
   },
   {
-    "title": "Why data sharing agreements and licenses are important?",
-    "displayTitle": "Why data sharing agreements and licenses are important?",
+    "title": "Why data sharing agreements and licences are important?",
+    "displayTitle": "Why data sharing agreements and licences are important?",
     "body": "",
     "_classes": "",
     "_trackingId": 16,
@@ -732,7 +732,7 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -826,7 +826,7 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -846,7 +846,7 @@
     }
   },
   {
-    "title": "New Block Title",
+    "title": "COVID 19 & Data Sharing",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -860,7 +860,37 @@
     "_ariaLevel": 0,
     "_id": "6408b474b38aaf6b93dd7db9",
     "_parentId": "6408b2dfb38aaf6b93dd7d53",
-    "_type": "block"
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
   },
   {
     "title": "Choosing a license for data sharing",

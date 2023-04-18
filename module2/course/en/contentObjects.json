@@ -2,10 +2,10 @@
   {
     "title": "Maximising reuse of data through licensing and sharing",
     "displayTitle": "Maximising reuse of data through licensing and sharing",
-    "body": "<p>Value can be created from data when it is collected, accessed, used and shared. Maximising the value created from data can only be achieved when all of these aspects are considered. However this cycle is often broken as data is not shared and thus the same data cannot be collected and re-used by others.&nbsp;</p><p>This module introduces the key role of data sharing agreements and data licenses as ways to safely share data and maximise its reuse.</p>",
+    "body": "<p>Value can be created from data when it is collected, accessed, used and shared. Maximising the value created from data can only be achieved when all of these aspects are considered. However this cycle is often broken as data is not shared and thus the same data cannot be collected and re-used by others.&nbsp;</p><p>This module introduces the key role of data sharing agreements and data licences as ways to safely share data and maximise its reuse.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Value can be created from data when it is collected, accessed, used and shared. Maximising the value created from data can only be achieved when all of these aspects are considered. However this cycle is often broken as data is not shared and thus the same data cannot be collected and re-used by others.&nbsp;</p><p>This module introduces the key role of data sharing agreements and data licenses as ways to safely share data and maximise its reuse.</p>",
+    "pageBody": "<p>Value can be created from data when it is collected, accessed, used and shared. Maximising the value created from data can only be achieved when all of these aspects are considered. However this cycle is often broken as data is not shared and thus the same data cannot be collected and re-used by others.&nbsp;</p><p>This module introduces the key role of data sharing agreements and data licences as ways to safely share data and maximise its reuse.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -30,6 +30,9 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_FooterLink": {
+      "_items": []
+    },
     "_aboutPage": {
       "aboutCredit": "",
       "SL_text": "",
@@ -38,22 +41,22 @@
     "_ODILicence": {
       "_items": []
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_FooterLink": {
-      "_items": []
-    },
     "_homeButton": {
       "_isEnabled": false,
       "_hideHomeButton": false,
       "_hideBackButton": false,
       "_redirectToId": ""
     },
-    "_odi-generic": {
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",

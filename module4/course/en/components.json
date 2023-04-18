@@ -21,10 +21,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_tutor": {
       "_isInherited": true,
       "_type": "notify",
@@ -34,6 +30,10 @@
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -196,7 +196,7 @@
     "_disableAccessibilityState": false,
     "title": "Licensing interoperability matrix",
     "displayTitle": "Licensing interoperability matrix",
-    "body": "<p>Licensing interoperability matrix</p><p>The image here shows the licence interoperability matrix for different licencing terms. While this shows the creative-commons suit of licences, the terms tend to recur in bespoke licences and other public licences.</p><p>In order the licences are:</p><p>1&amp;2 Public domain (CC0 and Unlicensed)</p><ol><li>Attribution only (cite the copyright holder)</li><li>Attribution share-alike (cite and share under same, similar terms)</li><li>Attribution non-commercial (cite and no commercial use)</li><li>Attribution no-derivatives (cite but no new works permitted)</li><li>Attribution, non-commercial, share-alike</li><li>Attribution, non-commercial, no-derivatives</li></ol>",
+    "body": "<p>Licensing interoperability matrix</p><p>The image here shows the licence interoperability matrix for different licencing terms. While this shows the creative-commons suite of licences, the terms tend to recur in bespoke licences and other public licences.</p><p>In order the licences are:</p><p>1&amp;2 Public domain (CC0 and Unlicensed)</p><ol><li>Attribution only (cite the copyright holder)</li><li>Attribution share-alike (cite and share under same, similar terms)</li><li>Attribution non-commercial (cite and no commercial use)</li><li>Attribution no-derivatives (cite but no new works permitted)</li><li>Attribution, non-commercial, share-alike</li><li>Attribution, non-commercial, no-derivatives</li></ol>",
     "_id": "6409f39db38aaf6b93dd7fc9",
     "_parentId": "6409f39bb38aaf6b93dd7fb1",
     "_type": "component",
@@ -205,10 +205,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
     },
     "_tutor": {
       "_isInherited": true,
@@ -219,6 +215,10 @@
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -408,7 +408,7 @@
     "_disableAccessibilityState": false,
     "title": "REST in practice ",
     "displayTitle": "REST in practice ",
-    "body": "<p>The internet of things is full of devices that use RESTful APIs to allow them to be controlled. From thermostats to fridges, light switches and TVs, all internet connected devices are now highly likely to be running an API that allows their state to be read as well as allow control. Services like HomeKit, Google Home and Alexa all make use of these APIs to control devices, and for everything that isn’t natively supported, software like <a href=\"https://homebridge.io/\">homebridge</a> acts as the translator, ensuring that everything can talk to everything else.&nbsp;&nbsp;</p>",
+    "body": "<p>The internet of things is full of devices that use RESTful APIs to allow them to be controlled. From thermostats to fridges, light switches and TVs, all internet connected devices are now highly likely to be running an API that allows their state to be read as well as allow control. Services like HomeKit, Google Home and Alexa all make use of these APIs to control devices, and for everything that isn’t natively supported, software like <a target=\"_blank\" href=\"https://homebridge.io/\">homebridge</a> acts as the translator, ensuring that everything can talk to everything else.&nbsp;&nbsp;</p>",
     "_id": "6409f39db38aaf6b93dd7fcf",
     "_parentId": "6409f39bb38aaf6b93dd7fb4",
     "_type": "component",
@@ -417,10 +417,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
     },
     "_tutor": {
       "_isInherited": true,
@@ -431,6 +427,10 @@
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -533,7 +533,7 @@
     "_disableAccessibilityState": false,
     "title": "Schemas in practice",
     "displayTitle": "Schemas in practice",
-    "body": "<p>Below is an example schema for a dataset that pertains to data about a company. It defines the attribute name, data type as well as any validations rules.</p><p>Schemas will nearly always be defined in a machine readable format that allows for the automatic validation of the data. The one here is more human readable only.</p><p>Below is an example schema for a dataset that pertains to data about a company. It defines the attribute name, data type as well as any validations rules.</p><p>Schemas will nearly always be defined in a machine readable format that allows for the automatic validation of the data. The one here is more human readable only.</p><p>&nbsp;</p>\n\n<table class=\"c49\">\n        <tbody><tr class=\"c16\">\n            <td class=\"c9\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c3\"><span class=\"c4\">Attribute</span></p>\n            </td>\n            <td class=\"c18\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c3\"><span class=\"c4\">Data types</span></p>\n            </td>\n            <td class=\"c10\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c3\"><span class=\"c4\">Validation rules</span></p>\n            </td>\n        </tr>\n        <tr class=\"c16\">\n            <td class=\"c9\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c3\"><span class=\"c4\">Name</span></p>\n            </td>\n            <td class=\"c18\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Free text</span></p>\n            </td>\n            <td class=\"c10\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">None</span></p>\n            </td>\n        </tr>\n        <tr class=\"c16\">\n            <td class=\"c9\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Description</span></p>\n            </td>\n            <td class=\"c18\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Free text</span></p>\n            </td>\n            <td class=\"c10\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">None</span></p>\n            </td>\n        </tr>\n        <tr class=\"c16\">\n            <td class=\"c9\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Headquarters</span></p>\n            </td>\n            <td class=\"c18\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Free text</span></p>\n            </td>\n            <td class=\"c10\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">None</span></p>\n            </td>\n        </tr>\n        <tr class=\"c16\">\n            <td class=\"c9\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Status</span></p>\n            </td>\n            <td class=\"c18\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Categorical</span></p>\n            </td>\n            <td class=\"c10\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">One of \"Active\", \"Inactive\"</span></p>\n            </td>\n        </tr>\n        <tr class=\"c34\">\n            <td class=\"c9\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Years active</span></p>\n            </td>\n            <td class=\"c18\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Continuous integer</span></p>\n            </td>\n            <td class=\"c10\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Greater than 0</span></p>\n            </td>\n        </tr>\n        <tr class=\"c34\">\n            <td class=\"c9\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Financial health</span></p>\n            </td>\n            <td class=\"c18\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">Categorical</span></p>\n            </td>\n            <td class=\"c10\" colspan=\"1\" rowspan=\"1\">\n                <p class=\"c21\"><span class=\"c4\">One of \"Very poor\", \"Poor\", \"OK\",\n                        \"Good\", \"Very good\" </span></p>\n            </td>\n        </tr>\n    </tbody></table>",
+    "body": "<p>Below is an example schema for a dataset that pertains to data about a company. It defines the attribute name, data type as well as any validations rules.</p><p>Schemas will nearly always be defined in a machine readable format that allows for the automatic validation of the data. The one here is more human readable only.</p><p>&nbsp;</p><table class=\"c49\"><tbody><tr><td colspan=\"1\" rowspan=\"1\"><p><span class=\"c4\">Attribute</span></p></td><td colspan=\"1\" rowspan=\"1\"><p><span class=\"c4\">Data types</span></p></td><td colspan=\"1\" rowspan=\"1\"><p><span class=\"c4\">Validation rules</span></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p><span class=\"c4\">Name</span></p></td><td colspan=\"1\" rowspan=\"1\"><p><span class=\"c4\">Free text</span></p></td><td colspan=\"1\" rowspan=\"1\"><p><span class=\"c4\">None</span></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p><span class=\"c4\">Description</span></p></td><td colspan=\"1\" rowspan=\"1\"><p><span class=\"c4\">Free text</span></p></td><td colspan=\"1\" rowspan=\"1\"><p><span class=\"c4\">None</span></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p><span class=\"c4\">Headquarters</span></p></td><td colspan=\"1\" rowspan=\"1\"><p><span class=\"c4\">Free text</span></p></td><td colspan=\"1\" rowspan=\"1\"><p><span class=\"c4\">None</span></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p><span class=\"c4\">Status</span></p></td><td colspan=\"1\" rowspan=\"1\"><p><span class=\"c4\">Categorical</span></p></td><td colspan=\"1\" rowspan=\"1\"><p><span class=\"c4\">One of \"Active\", \"Inactive\"</span></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p><span class=\"c4\">Years active</span></p></td><td colspan=\"1\" rowspan=\"1\"><p><span class=\"c4\">Continuous integer</span></p></td><td colspan=\"1\" rowspan=\"1\"><p><span class=\"c4\">Greater than 0</span></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p><span class=\"c4\">Financial health</span></p></td><td colspan=\"1\" rowspan=\"1\"><p><span class=\"c4\">Categorical</span></p></td><td colspan=\"1\" rowspan=\"1\"><p><span class=\"c4\">One of \"Very poor\", \"Poor\", \"OK\", \"Good\", \"Very good\" </span></p></td></tr></tbody></table>",
     "_id": "6409f39eb38aaf6b93dd7fd3",
     "_parentId": "6409f39bb38aaf6b93dd7fb6",
     "_type": "component",
@@ -542,10 +542,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
     },
     "_tutor": {
       "_isInherited": true,
@@ -556,6 +552,10 @@
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -887,7 +887,7 @@
     "_disableAccessibilityState": false,
     "title": "Data interoperability",
     "displayTitle": "Data interoperability",
-    "body": "<p dir=\"ltr\">To enable an ecosystem of connected digital twins within or across organisations, it is critical for data to be as interoperable as possible. This goes beyond simply using the same standard or set of column titles. In this module we explore the following:</p><ul><li dir=\"ltr\">Why interoperability is important?</li><li dir=\"ltr\">Legal interoperability</li><li dir=\"ltr\">Technical interoperability</li><li dir=\"ltr\">Semantic interoperability</li></ul>",
+    "body": "<p dir=\"ltr\">To enable an ecosystem of connected digital twins within or across organisations, it is critical for data to be as interoperable as possible. This goes beyond simply using the same standard or set of column titles. In this module, we explore the following:</p><ul><li dir=\"ltr\">Why interoperability is important?</li><li dir=\"ltr\">Legal interoperability</li><li dir=\"ltr\">Technical interoperability</li><li dir=\"ltr\">Semantic interoperability</li></ul>",
     "_id": "6409fd46b38aaf6b93dd7fe2",
     "_parentId": "6409fd45b38aaf6b93dd7fe1",
     "_type": "component",
@@ -1480,7 +1480,7 @@
     "_disableAccessibilityState": false,
     "title": "Identifiers",
     "displayTitle": "Identifiers",
-    "body": "<p>Identifiers&nbsp;are at the heart of how data can be effectively published, retrieved, reused and linked. They cover everything from postcodes and country codes to company numbers and ISBNs for books.&nbsp;</p><p>Open identifiers can be used by anyone. They help ensure that all data about the same thing can be easily found, linked and reused.</p><p>“Cool” identifiers, based upon good principles of API design, help to make the creation and prediction of identifiers easy and are even better when they are URI s that can be retrieved.</p>",
+    "body": "<p>Identifiers&nbsp;are at the heart of how data can be effectively published, retrieved, reused and linked. They cover everything from postcodes and country codes to company numbers and ISBNs for books.&nbsp;</p><p>Open identifiers can be used by anyone. They help ensure that all data about the same thing can be easily found, linked and reused.</p><p>“Cool” identifiers, based upon good principles of API design, help to make the creation and prediction of identifiers easy and are even better when they are Uniform Resource Identifiers (URIs) that can be retrieved.</p>",
     "_id": "640a0943b38aaf6b93dd7ff8",
     "_parentId": "640a0899b38aaf6b93dd7ff5",
     "_type": "component",
@@ -1843,9 +1843,9 @@
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "",
+      "correct": "<p><strong>That's right!</strong><br />Although multiple aspects of the dataset were presented as potential discrepancies, only one of them truly violates the schema. The \"Years active\" range aligns with the schema's specifications, and no attributes are missing from the dataset. The primary issue emerges from the \"Financial health\" attribute, as it contains values that deviate from the schema's predefined structure. Consequently, the correct answer is \"Mismatch in values permitted for 'Financial health',\" illustrating the importance of maintaining consistency in datasets.</p>",
       "_incorrect": {
-        "final": "",
+        "final": "<p><strong>Are you sure about that?</strong><br />Although multiple aspects of the dataset were presented as potential discrepancies, only one of them truly violates the schema. The \"Years active\" range aligns with the schema's specifications, and no attributes are missing from the dataset. The primary issue emerges from the \"Financial health\" attribute, as it contains values that deviate from the schema's predefined structure. Consequently, the correct answer is \"Mismatch in values permitted for 'Financial health',\" illustrating the importance of maintaining consistency in datasets.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -1939,7 +1939,7 @@
     "_disableAccessibilityState": false,
     "title": "Data schemas",
     "displayTitle": "Data schemas",
-    "body": "<p>Data standards can consist of many different parts. Perhaps the most widely used are data schemas.</p><p>A schema is a set of rules that describe the structure and contents of a data resource. These rules can be enforced by structuring how the data is captured, but more commonly the schema is defined in a separate document. In this way a schema can be used by a machine to validate data against the rules and catch common errors.</p><p>The schema will define a number of key things:</p>",
+    "body": "<p>Data standards can consist of many different parts. Perhaps the most widely used are data schemas.</p><p>A schema is a set of rules that describe the structure and contents of a data resource. These rules can be enforced by structuring how the data is captured, but more commonly the schema is defined in a separate document. In this way, a schema can be used by a machine to validate data against the rules and catch common errors.</p><p>The schema will define a number of key things:</p>",
     "_id": "640a147ab38aaf6b93dd800b",
     "_parentId": "640a13fab38aaf6b93dd8008",
     "_type": "component",

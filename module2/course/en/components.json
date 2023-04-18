@@ -11,7 +11,7 @@
     "_disableAccessibilityState": false,
     "title": "Introduction",
     "displayTitle": "",
-    "body": "<p dir=\"ltr\">Value can be created from data when it is collected, accessed, used and shared. Maximising the value created from data can only be achieved when all of these aspects are considered. However this cycle is often broken as data is not shared and thus the same data cannot be collected and re-used by others. One the main reasons data is not shared is the lack of clear data sharing agreement or licence that can be used to safely shared data while protecting the interests of the data owner.</p><p dir=\"ltr\">This module introduces the key role of data sharing agreements and data licenses as ways to safely share data and maximise its reuse.</p>",
+    "body": "<p dir=\"ltr\">Value can be created from data when it is collected, accessed, used and shared. Maximising the value created from data can only be achieved when all of these aspects are considered. However this cycle is often broken as data is not shared and thus the same data cannot be collected and re-used by others. One the main reasons data is not shared is the lack of clear data sharing agreements or licences that can be used to safely share&nbsp;data while protecting the interests of the data owner.</p><p dir=\"ltr\">This module introduces the key role of data sharing agreements and data licences as ways to safely share data and maximise its reuse.</p>",
     "_id": "6408b2dfb38aaf6b93dd7d6c",
     "_parentId": "6408b2dfb38aaf6b93dd7d59",
     "_type": "component",
@@ -98,7 +98,7 @@
     "_disableAccessibilityState": false,
     "title": "Outcomes",
     "displayTitle": "",
-    "body": "<p>This module introduces:</p><ul><li>The benefits of data sharing to the data publisher</li><li>Why data sharing agreements and licenses are important</li><li>The difference between data licenses and data sharing agreements</li><li>Choosing between using a data sharing agreement and an data license</li><li>How to build a data sharing agreement</li><li>How to build an open license for data</li><li>Using existing open licenses for data</li><li>Choosing a license for data sharing</li></ul>",
+    "body": "<p>This module introduces:</p><ul><li>The benefits of data sharing to the data publisher</li><li>Why data sharing agreements and licences are important</li><li>The difference between data licences and data sharing agreements</li><li>Choosing between using a data sharing agreement and an data licence</li><li>How to build a data sharing agreement</li><li>How to build an open licence for data</li><li>Using existing open licences for data</li><li>Choosing a license for data sharing</li></ul>",
     "_id": "6408b2dfb38aaf6b93dd7d6e",
     "_parentId": "6408b2dfb38aaf6b93dd7d5e",
     "_type": "component",
@@ -108,8 +108,18 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -135,6 +145,16 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -170,6 +190,7 @@
     "_shouldDisplayAttempts": false,
     "_isRandom": false,
     "_recordInteraction": true,
+    "_hasItemScoring": false,
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
@@ -268,9 +289,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Why data sharing agreements and licenses are important?",
+    "title": "Why data sharing agreements and licences are important?",
     "displayTitle": "",
-    "body": "<p>Why are data sharing agreements and licenses important?</p>",
+    "body": "<p>Why are data sharing agreements and licences important?</p>",
     "_id": "6408b2dfb38aaf6b93dd7d71",
     "_parentId": "6408b2dfb38aaf6b93dd7d68",
     "_type": "component",
@@ -280,6 +301,16 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
@@ -287,9 +318,11 @@
     "instruction": "Select two answers then click 'submit'",
     "_items": [
       {
-        "text": "Give users explicit and legal permissions to users of data",
+        "text": "Give users explicit and legal permissions to use of data",
         "_shouldBeSelected": true,
-        "feedback": ""
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
       },
       {
         "text": "Put in place clauses that protect and distance the data publisher from any potential risks",
@@ -309,13 +342,14 @@
     "_shouldDisplayAttempts": false,
     "_isRandom": true,
     "_recordInteraction": true,
+    "_hasItemScoring": false,
     "_questionWeight": 1,
     "_selectable": 2,
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That’s right!</strong></p><p>Data sharing agreements and data licenses provide permission for users (e.g. academics, businesses, governments and individuals) to innovate with data. Both provide users with certainty that the data can be used and shared for a wide range of purposes.&nbsp;</p><p>Without a license or data sharing agreement, both users and publishers may find themselves in a legal grey area.</p>",
+      "correct": "<p><strong>That’s right!</strong></p><p>Data sharing agreements and data licences provide permission for users (e.g. academics, businesses, governments and individuals) to innovate with data. Both provide users with certainty that the data can be used and shared for a wide range of purposes.&nbsp;</p><p>Without a licence or data sharing agreement, both users and publishers may find themselves in a legal grey area.</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>Data sharing agreements and data licenses provide permission for users (e.g. academics, businesses, governments and individuals) to innovate with data. Both provide users with certainty that the data can be used and shared for a wide range of purposes.&nbsp;</p><p>Without a license or data sharing agreement, both users and publishers may find themselves in a legal grey area.</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Data sharing agreements and data licences provide permission for users (e.g. academics, businesses, governments and individuals) to innovate with data. Both provide users with certainty that the data can be used and shared for a wide range of purposes.&nbsp;</p><p>Without a licence or data sharing agreement, both users and publishers may find themselves in a legal grey area.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -358,7 +392,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Why data sharing agreements and licenses are important?",
+    "title": "Why data sharing agreements and licences are important?",
     "displayTitle": "",
     "body": "",
     "_id": "6408b2dfb38aaf6b93dd7d72",
@@ -381,7 +415,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -407,9 +441,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "The difference between data licenses and data sharing agreements",
+    "title": "The difference between data licences and data sharing agreements",
     "displayTitle": "",
-    "body": "<p>Rights and permissions to access, use and share data are governed by a set of rules, policies, processes, legislation and community norms.&nbsp;</p><p>To the end user however, rights and permissions most commonly exist in the forms of data licenses and data sharing agreements.</p>",
+    "body": "<p>Rights and permissions to access, use and share data are governed by a set of rules, policies, processes, legislation and community norms.&nbsp;</p><p>To the end user however, rights and permissions most commonly exist in the forms of data licences and data sharing agreements.</p>",
     "_id": "6408b2dfb38aaf6b93dd7d73",
     "_parentId": "6408b2dfb38aaf6b93dd7d5a",
     "_type": "component",
@@ -418,6 +452,16 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -463,7 +507,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Characteristics of data licenses",
+    "title": "Characteristics of data licences",
     "displayTitle": "",
     "body": "<p dir=\"ltr\">It differs from data sharing agreements in the following ways:</p><ul dir=\"ltr\"><li>Permission is granted in advance, rather than when somebody asks for access.</li><li>Permission is not time-limited - there is no start and end date.</li><li>Rather than naming specific people or organisations, it applies to everyone (as long as they abide by the license terms)</li><li>A user does not typically sign an open data license</li><li>It usually contains at most three sets of conditions.</li><li>What must be done by the user</li><li>What can be done by the user</li><li>What cannot be done by the user</li></ul>",
     "_id": "6408b2dfb38aaf6b93dd7d75",
@@ -474,6 +518,16 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -491,7 +545,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Characteristics of data licenses",
+    "title": "Characteristics of data licences",
     "displayTitle": "",
     "body": "",
     "_id": "6408b2dfb38aaf6b93dd7d76",
@@ -540,7 +594,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Choosing between using a data sharing agreement and a data license",
+    "title": "Choosing between using a data sharing agreement and a data licence",
     "displayTitle": "",
     "body": "<p>Can you distinguish which is more appropriate in the following scenarios?</p>",
     "_id": "6408b2dfb38aaf6b93dd7d77",
@@ -551,6 +605,16 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -580,6 +644,16 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
@@ -587,10 +661,15 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "",
-      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
-      "attribution": "<a href=\"unknown\" target=\"_blank\">unknown</a> <span class='assetLicence'>[unknown]</span>"
-    }
+      "longdescription": "",
+      "large": "course/en/assets/ed9a69771a25e476a3c2c8e96fcdb3e3138f0026.png",
+      "small": "course/en/assets/ed9a69771a25e476a3c2c8e96fcdb3e3138f0026.png",
+      "attribution": "<a href=\"odi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
   },
   {
     "_component": "matching",
@@ -614,11 +693,22 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
+    "ariaQuestion": "",
     "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
@@ -628,6 +718,8 @@
     "_isRandom": false,
     "_questionWeight": 1,
     "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_allowOnlyUniqueAnswers": false,
     "placeholder": "Please select an option",
     "_items": [
       {
@@ -740,7 +832,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -904,7 +996,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -981,7 +1073,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -1047,6 +1139,16 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
@@ -1054,10 +1156,15 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
+      "longdescription": "",
       "large": "course/en/assets/95dbc068786f294d637069ce60c13b7d31f1d614.png",
       "small": "course/en/assets/95dbc068786f294d637069ce60c13b7d31f1d614.png",
-      "attribution": "<a href=\"https://csisa.org/\" target=\"_blank\">CSISA</a> <span class='assetLicence'>[All rights reserved]</span>"
-    }
+      "attribution": "<a href=\"https://csisa.org/\" target=\"_blank\">CSISA</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
   },
   {
     "_component": "dragndrop",
@@ -1069,9 +1176,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Building a data license",
+    "title": "Building a data licence",
     "displayTitle": "",
-    "body": "<p>A data license grants up-front permission to use and reuse data, so long as the user complies with a specified set of terms. Many organisations and governments around the world are adopting open data licenses for sharing data.&nbsp;</p><p>See if you can sort the following conditions into the three boxes in order to build an open data license.</p>",
+    "body": "<p>A data licence grants up-front permission to use and reuse data, so long as the user complies with a specified set of terms. Many organisations and governments around the world are adopting open data licenses for sharing data.&nbsp;</p><p>See if you can sort the following conditions into the three boxes in order to build an open data licence.</p>",
     "_id": "6408b2dfb38aaf6b93dd7d81",
     "_parentId": "6408b2dfb38aaf6b93dd7d5d",
     "_type": "component",
@@ -1081,8 +1188,18 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "Drag your answers into each box and then click 'submit'",
@@ -1097,7 +1214,7 @@
         ]
       },
       {
-        "text": "A use must (if they do anything with the data)",
+        "text": "A user must (if they do anything with the data)",
         "accepted": [
           "Attribute the data provider/owner"
         ]
@@ -1123,9 +1240,9 @@
     "_recordInteraction": true,
     "_questionWeight": 1,
     "_feedback": {
-      "correct": "<p><strong>That’s right!</strong></p><p>Open data licenses provide users with certainty that the data can be accessed, used, modified and shared for a wide range of purposes.</p><p>For a license to be an open one, it must give users explicit permission to use the data for both commercial and non-commercial purposes.</p><p>Publishers can require that users attribute the data provider or even share modifications to the data for others to benefit from.&nbsp;</p><p>A data user cannot claim ownership, endorsement or any damages from the data publisher that result from their use or analysis of the data, regardless of the quality of the data.&nbsp;</p><p>&nbsp;</p>",
+      "correct": "<p><strong>That’s right!</strong></p><p>Open data licences provide users with certainty that the data can be accessed, used, modified and shared for a wide range of purposes.</p><p>For a licence to be an open one, it must give users explicit permission to use the data for both commercial and non-commercial purposes.</p><p>Publishers can require that users attribute the data provider or even share modifications to the data for others to benefit from.&nbsp;</p><p>A data user cannot claim ownership, endorsement or any damages from the data publisher that result from their use or analysis of the data, regardless of the quality of the data.&nbsp;</p><p>&nbsp;</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>Open data licenses provide users with certainty that the data can be accessed, used, modified and shared for a wide range of purposes.</p><p>For a license to be an open one, it must give users explicit permission to use the data for both commercial and non-commercial purposes.</p><p>Publishers can require that users attribute the data provider or even share modifications to the data for others to benefit from.&nbsp;</p><p>A data user cannot claim ownership, endorsement or any damages from the data publisher that result from their use or analysis of the data, regardless of the quality of the data.</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Open data licences provide users with certainty that the data can be accessed, used, modified and shared for a wide range of purposes.</p><p>For a licence to be an open one, it must give users explicit permission to use the data for both commercial and non-commercial purposes.</p><p>Publishers can require that users attribute the data provider or even share modifications to the data for others to benefit from.&nbsp;</p><p>A data user cannot claim ownership, endorsement or any damages from the data publisher that result from their use or analysis of the data, regardless of the quality of the data.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -1170,7 +1287,7 @@
     "_disableAccessibilityState": false,
     "title": "Common licenses for data sharing",
     "displayTitle": "",
-    "body": "<p>The simpler the license, the better.</p><p>There are lots of different licenses. To maximise reuse, try to adopt a license standard that is already widely used - using an existing license can save you time and money and can help reusers understand what they can and cannot do via permissions written in standard wording that is widely used, therefore maximising the utility of data and potential value that can be unlocked.</p><p>There are a number of common licences available to freely use,&nbsp;explore the common ones below:</p>",
+    "body": "<p>The simpler the license, the better.</p><p>There are lots of different licenses. To maximise reuse, try to adopt a license standard that is already widely used - using an existing license can save you time and money and can help reusers understand what they can and cannot do via permissions written in standard wording that is widely used, therefore maximising the utility of data and potential value that can be unlocked.</p><p>There are a number of common licences available to freely use;&nbsp;explore the common ones below:</p>",
     "_id": "6408b2dfb38aaf6b93dd7d82",
     "_parentId": "6408b2dfb38aaf6b93dd7d62",
     "_type": "component",
@@ -1180,8 +1297,18 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -1296,7 +1423,7 @@
     "_disableAccessibilityState": false,
     "title": "Open government licenses",
     "displayTitle": "",
-    "body": "<p>Some publishers choose to adopt in-country government licenses. This has the advantage of being created and backed by local regulations.&nbsp;</p><p>In the majority of cases these are similar, to the point of being completely compatible with, creative commons licenses. The only difference in some cases is the name, logo and jurisdiction of laws that govern the license.&nbsp;</p><p>Some good examples of clear open government data licenses include:</p><ul><li><strong><a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\" target=\"_blank\">The UK Open Government license</a></strong></li><li><strong><a href=\"https://data.gov.in/government-open-data-license-india\" target=\"_blank\">The Government Open Data License for India</a></strong></li></ul>",
+    "body": "<p>Some publishers choose to adopt in-country government licenses. This has the advantage of being created and backed by local regulations.&nbsp;</p><p>In the majority of cases these are similar, to the point of being completely compatible with, creative commons licenses. The only difference in some cases is the name, logo and jurisdiction of laws that govern the license.&nbsp;</p><p>Some good examples of clear open government data licenses include:</p><ul><li><strong><a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\" target=\"_blank\">The UK Open Government license</a></strong></li><li><strong><a href=\"https://smartcities.data.gov.in/government-open-data-license-india\" target=\"_blank\">The Government Open Data License for India</a></strong></li></ul>",
     "_id": "6408b2dfb38aaf6b93dd7d85",
     "_parentId": "6408b2dfb38aaf6b93dd7d69",
     "_type": "component",
@@ -1306,8 +1433,18 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -1383,6 +1520,16 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
@@ -1421,7 +1568,8 @@
         "_classes": ""
       }
     ],
-    "_shouldCollapseItems": true
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
   },
   {
     "_component": "matching",
@@ -1445,11 +1593,22 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
+    "ariaQuestion": "",
     "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
@@ -1459,6 +1618,8 @@
     "_isRandom": false,
     "_questionWeight": 1,
     "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_allowOnlyUniqueAnswers": false,
     "placeholder": "Please select an option",
     "_items": [
       {
@@ -1672,7 +1833,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -1759,8 +1920,18 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -1826,7 +1997,7 @@
     "_disableAccessibilityState": false,
     "title": "COVID-19 and data sharing",
     "displayTitle": "COVID-19 and data sharing",
-    "body": "<p dir=\"ltr\">The urgent need for data was especially highlighted during the COVID-19 pandemic. Evidence to understand and tackle the virus made the pandemic a catalyst for data sharing, as public and private institutions came together around a common cause and worked at pace to contribute to the global understanding of the virus.&nbsp;</p><p dir=\"ltr\">Leaders in the area included Italy, who have been publishing open data daily <a href=\"https://github.com/pcm-dpc/COVID-19\">on GitHub</a> since the beginning of March, with regional breakdowns, and numbers of people self-isolating, hospitalised and in intensive care. All openly licenced!</p><p dir=\"ltr\">However, many faced many challenges around data access. Common issues raised included: missing and poor-quality data; data access and need for data-sharing agreements; uncertainty about legal compliance and perceptions of legal barriers; and differences in methodology within multidisciplinary teams.</p><p dir=\"ltr\">Focussing on just the data quality issues is therefor not sufficient to enable access to reusable data. The pandemic highlighted the broader issues around data access and the need for clarity on the need for clear data sharing agreements and licenses.</p>",
+    "body": "<p dir=\"ltr\">The urgent need for data was especially highlighted during the COVID-19 pandemic. Evidence to understand and tackle the virus made the pandemic a catalyst for data sharing, as public and private institutions came together around a common cause and worked at pace to contribute to the global understanding of the virus.&nbsp;</p><p dir=\"ltr\">Leaders in the area included Italy, who have been publishing open data daily on <a target=\"_blank\" href=\"https://github.com/pcm-dpc/COVID-19\">GitHub</a> since the beginning of March, with regional breakdowns, and numbers of people self-isolating, hospitalised and in intensive care. All openly licenced!</p><p dir=\"ltr\">However, many faced many challenges around data access. Common issues raised included: missing and poor-quality data; data access and need for data-sharing agreements; uncertainty about legal compliance and perceptions of legal barriers; and differences in methodology within multidisciplinary teams.</p><p dir=\"ltr\">Focussing on just the data quality issues is therefore not sufficient to enable access to reusable data. The pandemic highlighted the broader issues around data access and the need for clarity on the need for clear data sharing agreements and licenses.</p>",
     "_id": "6408b47fb38aaf6b93dd7dba",
     "_parentId": "6408b474b38aaf6b93dd7db9",
     "_type": "component",
@@ -1885,7 +2056,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",

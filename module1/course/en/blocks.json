@@ -20,12 +20,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -47,7 +47,7 @@
     }
   },
   {
-    "title": " The data landscape and connected digital twins",
+    "title": " The data landscape and connected digital twins LO's",
     "displayTitle": "",
     "body": "",
     "_classes": "color-one",
@@ -67,12 +67,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -114,12 +114,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -188,7 +188,7 @@
     }
   },
   {
-    "title": "New Block Title",
+    "title": "Creating impact with data",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -208,12 +208,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -396,12 +396,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -537,14 +537,14 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_odi-generic": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -584,14 +584,14 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
       "_quizBankID": 1
     },
-    "_odi-theme-wpp": {
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -631,18 +631,18 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
       "_quizBankID": 1
     },
-    "_odi-generic": {
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
       "_backgroundImage": {
-        "_large": "course/en/assets/b8155ebdeae138cc3f10454df3f47f3be8d38eac.png",
-        "_medium": "course/en/assets/b8155ebdeae138cc3f10454df3f47f3be8d38eac.png",
-        "_small": "course/en/assets/b8155ebdeae138cc3f10454df3f47f3be8d38eac.png"
+        "_large": "",
+        "_medium": "",
+        "_small": ""
       },
       "_backgroundStyles": {
         "_backgroundRepeat": null,

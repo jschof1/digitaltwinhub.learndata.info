@@ -101,18 +101,18 @@
       "_resources": {
         "resources": "Additional resources."
       },
+      "_xapi": {
+        "confirm": "OK",
+        "lrsConnectionErrorTitle": "LRS not available",
+        "lrsConnectionErrorMessage": "We were unable to connect to your Learning Record Store (LRS). This means that your progress cannot be recorded."
+      },
       "_pageLevelProgress": {
         "pageLevelProgress": "Page sections",
         "pageLevelProgressIndicatorBar": "Page progress. Use this to listen to the list of regions in this topic and whether they're completed. You can jump directly to any that are incomplete or which sound particularly interesting. {{percentageComplete}}%",
         "pageLevelProgressMenuBar": "Page completion {{percentageComplete}}%",
         "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
         "optionalContent": "Optional content",
-        "_navOrder": "0"
-      },
-      "_xapi": {
-        "confirm": "OK",
-        "lrsConnectionErrorTitle": "LRS not available",
-        "lrsConnectionErrorMessage": "We were unable to connect to your Learning Record Store (LRS). This means that your progress cannot be recorded."
+        "_navOrder": 0
       }
     },
     "_components": {
@@ -538,12 +538,6 @@
     },
     "_resourcesItems": []
   },
-  "_pageLevelProgress": {
-    "_isEnabled": true,
-    "_showPageCompletion": true,
-    "_isCompletionIndicatorEnabled": false,
-    "_isShownInNavigationBar": true
-  },
   "_assessment": {
     "_isPercentageBased": true,
     "_scoreToPass": 60,
@@ -555,6 +549,12 @@
     "_redirectToId": "",
     "_customLink": "learning.digitaltwinhub.co.uk/",
     "alt": "Home"
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true
   },
   "_boxMenu": {
     "_backgroundImage": {

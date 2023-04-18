@@ -98,6 +98,11 @@
       "_tutor": {
         "hideFeedback": "Hide feedback"
       },
+      "_xapi": {
+        "confirm": "OK",
+        "lrsConnectionErrorTitle": "LRS not available",
+        "lrsConnectionErrorMessage": "We were unable to connect to your Learning Record Store (LRS). This means that your progress cannot be recorded."
+      },
       "_pageLevelProgress": {
         "pageLevelProgress": "Page sections",
         "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
@@ -105,11 +110,6 @@
         "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
         "optionalContent": "Optional Content",
         "_navOrder": "0"
-      },
-      "_xapi": {
-        "confirm": "OK",
-        "lrsConnectionErrorTitle": "LRS not available",
-        "lrsConnectionErrorMessage": "We were unable to connect to your Learning Record Store (LRS). This means that your progress cannot be recorded."
       }
     },
     "_components": {
@@ -521,12 +521,6 @@
       "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
     }
   },
-  "_pageLevelProgress": {
-    "_isEnabled": true,
-    "_showPageCompletion": true,
-    "_isCompletionIndicatorEnabled": false,
-    "_isShownInNavigationBar": true
-  },
   "_assessment": {
     "_isPercentageBased": true,
     "_scoreToPass": 60,
@@ -538,6 +532,12 @@
     "_redirectToId": "",
     "_customLink": "learning.digitaltwinhub.co.uk/",
     "alt": "Home"
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true
   },
   "_boxMenu": {
     "_backgroundImage": {

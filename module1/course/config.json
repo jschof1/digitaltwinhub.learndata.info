@@ -32,8 +32,8 @@
   },
   "__v": 7,
   "_completionCriteria": {
-    "_requireContentCompleted": true,
-    "_requireAssessmentCompleted": false
+    "_requireContentCompleted": false,
+    "_requireAssessmentCompleted": true
   },
   "_logging": {
     "_isEnabled": true,

@@ -19,10 +19,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
       "_isEnabled": true,
       "_id": "ass5a",
@@ -51,6 +47,10 @@
         "_canShowMarking": true,
         "_canShowModelAnswer": true
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -85,10 +85,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
       "_isEnabled": false,
       "_id": "",
@@ -117,6 +113,10 @@
         "_canShowMarking": false,
         "_canShowModelAnswer": false
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -151,10 +151,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
       "_isEnabled": true,
       "_id": "ass5b",
@@ -183,6 +179,10 @@
         "_canShowMarking": true,
         "_canShowModelAnswer": true
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -217,10 +217,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
       "_isEnabled": false,
       "_id": "",
@@ -250,6 +246,10 @@
         "_canShowModelAnswer": false
       }
     },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
@@ -264,7 +264,7 @@
     }
   },
   {
-    "title": "Existing licenses",
+    "title": "Existing licences",
     "displayTitle": "",
     "body": "",
     "_classes": "color-one invert-even",
@@ -282,10 +282,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_isEnabled": true,
@@ -315,6 +311,10 @@
         "_canShowMarking": true,
         "_canShowModelAnswer": true
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-theme": {
       "_backgroundImage": {
